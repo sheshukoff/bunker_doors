@@ -4,7 +4,7 @@ from parsing_links_prime_doors import parsing_links_prime_doors
 from parsing_links_termo_doors import parsing_links_termo_doors
 
 from getting_all_attributes import recieve_four_json_file
-from write_date_to_excel import write_all_doors_to_excel
+from write_data_to_excel import write_all_doors_to_excel
 
 import os
 import shutil
